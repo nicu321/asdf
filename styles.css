@@ -1,0 +1,14 @@
+* {
+    color: white;
+    background-color: black;
+}
+
+button {
+    border-color: white;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+
+#privet {
+    font-size: 30px;
+}
